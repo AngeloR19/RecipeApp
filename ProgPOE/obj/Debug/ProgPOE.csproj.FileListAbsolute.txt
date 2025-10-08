@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\bin\Debug\ProgPOE.exe.config
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\bin\Debug\ProgPOE.exe
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\bin\Debug\ProgPOE.pdb
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\obj\Debug\ProgPOE.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\obj\Debug\ProgPOE.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\obj\Debug\ProgPOE.exe
+C:\Users\angel\OneDrive\Documents\Visual Studio 2022\ProgPOE\obj\Debug\ProgPOE.pdb
